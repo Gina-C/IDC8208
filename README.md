@@ -49,7 +49,7 @@ import torchaudio.transforms as T
 
 4. **Run the Pipeline**: Execute all cells until and including "Pipeline(Full)" section. There are 2 parts of the pipeline.
    
-5. **Use the Pipeline**: Execute the Test Case cells sequentially until pipeline part 1. From the result, mapped the Original Speaker label to Predicted Speaker label, before creating the actual_class that have true labels for the Predicted Speaker. Run pipeline part 2 to visualise results.
+5. **Use the Pipeline**: Execute the Test Case cells sequentially until pipeline part 1. From the result, map the Original Speaker label to Predicted Speaker label, before creating the actual_class that have true labels for the Predicted Speaker. Run pipeline part 2 to visualise results.
 
 6. **Results**: The notebook provides detailed visualizations and tabular outputs for:
    - PESQ Score
