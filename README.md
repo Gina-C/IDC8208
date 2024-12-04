@@ -41,7 +41,7 @@ import torchaudio.transforms as T
 ```
 ## Setup and Usage
 1. **Open the Notebook**: Use the following link to access the Colab notebook:
-   [Speech Processing Pipeline Notebook](https://colab.research.google.com/github/Gina-C/IDC8208/blob/main/IDC8208_Project_Gina.ipynb)
+   [Speech Denoising and Speaker Characteristic Inferencing Pipeline Notebook](https://colab.research.google.com/github/Gina-C/IDC8208/blob/main/IDC8208_Project_Gina.ipynb)
    
 2. **Duplicate the Notebook**: Save a copy of the notebook in your Google Drive. 
 
