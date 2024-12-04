@@ -58,13 +58,14 @@ import torchaudio.transforms as T
    - Classification results for Age and Height in Boxplot
    - Classification results for Gender in Confusion Matrix
   
-## File Structure
-- **Notebook**: Contains the full pipeline for speech denoising and classification of speaker attributes.
+## Files
+- **IDC8208_Project_Gina.ipynb**: Contains the full pipeline for speech denoising and classification of speaker attributes.
+- **all_results.xlsx**: Contains the Original Speaker (OS) true label Classifications, Relationship between OS and Predicted Speaker (PS), Mapped Speaker Timestamps, Scores and Accuracy results
 
 ## Future Improvements
 - Upgraded AI-denoising models
-- Impproved model for speaker diarization
-- Improved models for classification. 
+- Improved model for speaker diarization
+- Enhanced models for classification
 
 ## License
 
